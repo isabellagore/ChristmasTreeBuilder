@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+# Build or temp folders (if you ever add them)
+dist/
+build/
